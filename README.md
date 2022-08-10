@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti Bhasin</h1>
 <h3 align="center">An aspiring software developer and Machine Learning Enthusiast from India</h3>
 
-![]https://github.com/jyoti-bhasin/gif/blob/main/bongo-cat-codes.gif
+![](https://github.com/jyoti-bhasin/gif/blob/main/bongo-cat-codes.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-bhasin" alt="jyoti-bhasin" /></a> </p>
 
