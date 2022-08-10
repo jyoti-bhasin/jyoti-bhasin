@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-bhasin" alt="jyoti-bhasin" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://tenor.com/search/coding-gifs">
+
 - 🌱 I’m currently learning **Python and Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@heyajyotii](https://medium.com/@heyajyotii)
