@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jyoti Bhasin</h1>
-<h3 align="center">An aspiring software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-bhasin&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-bhasin" /> </p>
+<h3 align="center">An aspiring software developer and Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-bhasin" alt="jyoti-bhasin" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@heyajyotii](https://medium.com/@heyajyotii)
 
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/jyotibhasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jyotibhasin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jyoti bhasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti bhasin" height="30" width="40" /></a>
 <a href="https://medium.com/@heyajyotii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heyajyotii" height="30" width="40" /></a>
 </p>
