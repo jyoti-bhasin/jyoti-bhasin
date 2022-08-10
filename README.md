@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jyoti Bhasin</h1>
 <h3 align="center">An aspiring software developer and Machine Learning Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-bhasin" alt="jyoti-bhasin" /></a> </p>
+![]https://github.com/jyoti-bhasin/gif/blob/main/bongo-cat-codes.gif
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/3RHtnD5QGWB6ou696">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyoti-bhasin" alt="jyoti-bhasin" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
