@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@heyajyotii](https://medium.com/@heyajyotii)
-
 - 📫 How to reach me **heyajyotii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
